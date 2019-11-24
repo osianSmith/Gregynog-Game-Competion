@@ -1,4 +1,4 @@
-# Gregynog Maker Competion
+# Gregynog Maker Competition
  This repositry contains example code for the maker competion. The Arduino IDE is not shared here to reserve bandwidth in Gregynog.
 
 # Problems with the hardware?
