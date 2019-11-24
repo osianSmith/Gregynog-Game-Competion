@@ -6,5 +6,5 @@
 Run the hardware test (HardwareTest.ino) to ensure that everything hardware is working. If not contact Osian or Gavin and we will try to fix it
 
 
-Example Programs made by Gavin (c) 2019
+Example Programs made by Gavin © 2019
 
